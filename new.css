@@ -16,7 +16,9 @@ body {
 h1,h2,h3,p,li {
   text-align:left;	
 }
-
+h4 {
+  text-align:center;  
+}
 a {
   background-color:inherit;
   color:#333;
