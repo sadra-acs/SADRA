@@ -302,5 +302,8 @@ ul#menu li a { display: block; background-color:#fff;}
 ul#menu li a:hover { background-color:#690; color:#fff;}
 ul#menu li a.current, ul#menu li a.active:hover {    background-color:#eee;  color: #000;}
 
-
+/* Dotted red border */
+hr.new3 {
+  border-top: 1px dashed red;
+}
 

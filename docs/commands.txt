@@ -1,0 +1,3 @@
+- spin -a [File Name].pml
+- cc -o pan pan.c -DVECTORSZ=2000
+- ./pan
